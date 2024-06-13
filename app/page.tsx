@@ -14,20 +14,20 @@ export default function Home() {
           />
         </video>
         <div className="absolute top-[40px] right-[30px] sm:top-2/4 sm:left-2/4 text-white sm:translate-y-[-50%] sm:translate-x-[-50%] font-site">
-          <h2 className="sm:text-4xl mb-4">FREE & ACCESSIBLE</h2>
+          <h2 className="sm:text-4xl mb-4">FREE THE MIND</h2>
           <h1 className="sm:text-[90px] sm:leading-[90px]">
-            EDUCATION FOR ALL
+            YOGA FOR ALL
           </h1>
         </div>
         <div className="flex flex-col sm:flex-row relative items-center bg-white mt-[-10px] sm:mt-[-55px] mx-auto max-w-xs sm:max-w-4xl border-t-4 border-blue-site font-site">
           <h3 className="flex-1 sm:text-3xl py-4 px-8 text-center sm:text-left">
-            Take action to help us grow
+            Book a session
           </h3>
           <a
             href="/contact"
             className="btn-main sm:text-2xl sm:p-8 hover:bg-purple-site w-fit"
           >
-            DONATE
+            BOOK
           </a>
         </div>
       </div>
@@ -46,7 +46,7 @@ export default function Home() {
             />
           </div>
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:mt-[-300px]">
-            <h3 className="text-2xl font-site">Our Initiatives</h3>
+            <h3 className="text-2xl font-site">Meditation</h3>
             <p className="my-6 text-sm">
               Our initiatives bring people together to help solve real problems
               and evoke a positive change. Explore our initiatives and see what
@@ -71,7 +71,7 @@ export default function Home() {
             />
           </div>
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:ml-32 sm:mt-[-430px]">
-            <h3 className="text-2xl font-site">Our Mission</h3>
+            <h3 className="text-2xl font-site">Yoga for kids</h3>
             <p className="my-6 text-sm">
               We believe that education is a human right and a powerful tool for
               social change. We provide educational projects, learning resources
@@ -96,7 +96,7 @@ export default function Home() {
             />
           </div>
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:ml-44 sm:mt-[-230px]">
-            <h3 className="text-2xl font-site">Recent News</h3>
+            <h3 className="text-2xl font-site">Diet advice</h3>
             <p className="my-6 text-sm">
               Get caught up on recent news and our latest achievements in the
               world of education.
@@ -116,7 +116,7 @@ export default function Home() {
             />
           </div>
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:ml-32 sm:mt-[-530px]">
-            <h3 className="text-2xl font-site">Take Part</h3>
+            <h3 className="text-2xl font-site">Pool yoga</h3>
             <p className="my-6 text-sm">
               We welcome contributions in whatever form they come. Whether you
               want to contribute your time as a volunteer, join us as a partner
@@ -135,20 +135,20 @@ export default function Home() {
       <div className="flex flex-col sm:flex-row gap-8 sm:justify-between items-center font-site">
         <div className="relative text-center sm:text-left">
           <span className="text-4xl sm:text-[200px] block sm:leading-[200px] text-purple-site">
-            40K
+            10+
           </span>
           <span className="border-t-4 block sm:inline-block border-purple-site text-xl sm:text-4xl sm:absolute sm:right-0 sm:top-[190px]">
-            Dollars
+            Years
             <br />
-            Raised
+            Experience
           </span>
         </div>
         <div className="relative text-center sm:text-left">
           <span className="text-4xl sm:text-[200px] sm:leading-[200px] text-purple-site">
-            8K
+            10+
           </span>
           <span className="border-t-4 block sm:inline-block border-purple-site text-xl sm:text-4xl sm:absolute sm:top-[50px] sm:left-[130px] bg-white">
-            Graduate
+            Yoga
             <br />
             Students
           </span>
