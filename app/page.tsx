@@ -21,7 +21,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col sm:flex-row relative items-center bg-white mt-[-10px] sm:mt-[-55px] mx-auto max-w-xs sm:max-w-4xl border-t-4 border-blue-site font-site">
           <h3 className="flex-1 sm:text-3xl py-4 px-8 text-center sm:text-left">
-            Book a session now !
+            Book a session now!
           </h3>
           <a
             href="/contact"
