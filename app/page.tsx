@@ -16,7 +16,7 @@ export default function Home() {
         <div className="absolute top-[40px] right-[30px] sm:top-2/4 sm:left-2/4 text-white sm:translate-y-[-50%] sm:translate-x-[-50%] font-site">
           <h2 className="sm:text-4xl mb-4">FREE THE MIND</h2>
           <h1 className="sm:text-[90px] sm:leading-[90px]">
-            YOGA FOR ALL
+            `YOGA FOR ALL`
           </h1>
         </div>
         <div className="flex flex-col sm:flex-row relative items-center bg-white mt-[-10px] sm:mt-[-55px] mx-auto max-w-xs sm:max-w-4xl border-t-4 border-blue-site font-site">
